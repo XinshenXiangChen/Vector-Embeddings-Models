@@ -1,4 +1,4 @@
-from src.load_data import load_data
+from src.data.load_data import load_data
 
 class BPE:
     def __init__(self):
